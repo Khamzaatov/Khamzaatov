@@ -1,9 +1,9 @@
 <h2 align="center">Hi there!🤙</h2>
-<h4 align="center">
+<h3 align="center">
   <samp>My name is Adam, I'm from Grozny! <br> <br> I am a Frontend JavaScript developer. 😎    
   </samp>
   <br> <br>
-</h4>
+</h3>
 
 <h2 align="center">💬 Reach me on</h2>
 
